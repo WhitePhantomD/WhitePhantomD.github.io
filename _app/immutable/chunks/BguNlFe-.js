@@ -1,0 +1,1 @@
+import{t as l}from"./B_40f77_.js";import{h as i}from"./cpraTQAE.js";function o(s,c,t,f,h,a){var e=s.__className;if(i||e!==t||e===void 0){var r=l(t);(!i||r!==s.getAttribute("class"))&&(r==null?s.removeAttribute("class"):s.setAttribute("class",r)),s.__className=t}return a}export{o as s};
